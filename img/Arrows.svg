@@ -1,0 +1,12 @@
+<svg width="156" height="66" viewBox="0 0 156 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arrows">
+<g id="Arrow-left">
+<rect id="Rectangle" x="0.0722656" width="66" height="66" rx="33" fill="#FED84C"/>
+<path id="arrow" d="M36.106 22.7062L25.7401 33.072L36.106 43.4379" stroke="#2E363E" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g id="Arrow-right">
+<rect id="Rectangle_2" x="89.9277" width="66" height="66" rx="33" fill="#FED84C"/>
+<path id="arrow_2" d="M119.196 22.7062L129.562 33.072L119.196 43.4379" stroke="#2E363E" stroke-width="4" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
